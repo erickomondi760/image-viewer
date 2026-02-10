@@ -60,7 +60,7 @@ image-viewer/
 ## 📸 Screenshots
 
 ### Home Page
-![Home](src/assets/home.png)  
+![Home](src/assets/home.PNG)  
 *Main dashboard with search bar and image grid.*
 
 ### Inventory Page
