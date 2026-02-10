@@ -63,14 +63,6 @@ image-viewer/
 ![Home](src/assets/home.PNG)  
 *Main dashboard with search bar and image grid.*
 
-### Inventory Page
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`  
-*Displays fetched images with responsive layout.*
-
-### Dark Mode
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`  
-*Toggle between light and dark themes.*
-
 ---
 
 ## 🌐 Deployment
