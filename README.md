@@ -60,7 +60,7 @@ image-viewer/
 ## 📸 Screenshots
 
 ### Home Page
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`  
+![Home](src/assets/home.png)  
 *Main dashboard with search bar and image grid.*
 
 ### Inventory Page
