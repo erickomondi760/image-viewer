@@ -1,7 +1,3 @@
-Here’s a polished **README.md** you can use for your [image-viewer](https://github.com/erickomondi760/image-viewer) repository. I’ve structured it to highlight your project’s strengths, add visuals placeholders, and make it recruiter‑friendly:
-
----
-
 # 🖼️ Image Viewer
 
 A **React + Vite application** that fetches and displays images from the **Unsplash API**. Includes dark mode support, search functionality, and modern state management with React Query.
@@ -104,8 +100,3 @@ Contributions are welcome!
 ## 📜 License
 This project is licensed under the MIT License.
 
----
-
-✅ This version makes your repo **portfolio‑ready**: it has a quick start, visuals, demo link, and clear tech stack.  
-
-Would you like me to also **add badges** (Netlify deploy status, React version, license) at the top of the README so it looks even more professional?
